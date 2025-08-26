@@ -14,8 +14,9 @@
 ```javascript
 const gabriel = {
   currentlyLearning: ["React Native", "Next.js", "TypeScript"],
-  certification: "ALX Frontend Development",
-  education: "ALX Software Engineering (Backend Specialization)",
+  certification: ["ALX Frontend Development", "ALX Software Engineering (Backend Specialization)"],
+  education: "Miva Open University",
+  currentlyWorkingAt: "Supreme Creations Inc.",
   location: "Abuja, NG",
 }
 ```
